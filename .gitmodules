@@ -1,0 +1,6 @@
+[submodule "haifu-contracts/lib/forge-std"]
+	path = haifu-contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "haifu-contracts/lib/standard3.0-contracts"]
+	path = haifu-contracts/lib/standard3.0-contracts
+	url = https://github.com/standarddotim/standard3.0-contracts

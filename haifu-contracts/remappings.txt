@@ -1,0 +1,11 @@
+forge-std/=lib/forge-std/src/
+
+standard3.0-contracts/=lib/standard3.0-contracts/src/
+
+@openzeppelin/contracts/=lib/standard3.0-contracts/lib/openzeppelin-contracts/contracts/
+@openzeppelin/contracts-upgradeable/=lib/standard3.0-contracts/lib/openzeppelin-contracts-upgradeable/contracts/
+
+openzeppelin-foundry-upgrades/=lib/standard3.0-contracts/lib/openzeppelin-foundry-upgrades/src/
+
+ds-test/=lib/standard3.0-contracts/lib/openzeppelin-contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/standard3.0-contracts/lib/openzeppelin-contracts/lib/erc4626-tests/
